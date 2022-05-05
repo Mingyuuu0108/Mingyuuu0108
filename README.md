@@ -1,7 +1,7 @@
 <div align = center>
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=150&section=header&text=Mingyu%20is%20growing%20up%20now!&animation=twinkling&fontColor=FFFFFF&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=150&section=header&text=Mingyu%20is%20growing%20up,%20now!&animation=twinkling&fontColor=FFFFFF&fontSize=45)
   
 # 👨🏻‍💻 Introduction
 ### 저는 대구소프트웨어마이스터고에 현재 재학중인 개발자 꿈나무입니다!
