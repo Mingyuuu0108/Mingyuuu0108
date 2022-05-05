@@ -1,7 +1,7 @@
 <div align = center>
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=120&section=header&text=%50IOS%20Mingyu&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=120&section=header&text=IOS%20Mingyu&animation=fadeIn&fontSize=50)
   
 # 👨🏻‍💻 Introduction
 ### 저는 대구소프트웨어마이스터고에 현재 재학중인 개발자 꿈나무입니다!
