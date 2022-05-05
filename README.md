@@ -3,8 +3,8 @@
 ![header](https://github.com/Mingyuuu0108/Mingyuuu0108/blob/main/Nametag.svg?raw=true)  
 # 📊 Github Statistics
   
-[<img width=82.5% src="https://github-readme-stats.vercel.app/api?username=Mingyuuu0108">](https://github.com/Mingyuuu0108) 
-[<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=Mingyuuu0108">](https://github.com/Mingyuuu0108)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyuuu0108&layout=compact)](https://github.com/Mingyuuu0108/github-readme-stats)
+
 
 &nbsp;
 # 🖥️ My Stacks
@@ -14,3 +14,4 @@
 [![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)](https://www.adobe.com/products/aftereffects)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop)
+ 
