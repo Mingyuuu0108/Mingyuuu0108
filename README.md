@@ -6,6 +6,7 @@
 # 👨🏻‍💻 Introduction
 ### 저는 대구소프트웨어마이스터고에 현재 재학중인 개발자 꿈나무입니다!
   현재 IOS 개발과 앱 UI/UX 디자인을 공부하고 있습니다!! 🔥
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemingyuuu0108)](https://github.com/leemingyuuu0108/github-readme-stats)
   
 &nbsp;
 # 🖥️ My Stacks
