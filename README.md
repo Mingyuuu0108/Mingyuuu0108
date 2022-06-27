@@ -8,7 +8,7 @@
   현재 IOS 개발과 앱 UI/UX 디자인을 공부하고 있습니다!! 🔥
  
 &nbsp;
-# 🖥️ My Stacks
+# 🖥️ My Stats
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
@@ -18,5 +18,6 @@
     
 # 😄 Github Stack
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyuuu0108)](https://github.com/Mingyuuu0108/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyuuu0108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  
